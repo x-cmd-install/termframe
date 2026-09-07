@@ -5,7 +5,7 @@ about:
   head: 3ab946a
   archived: false
   latestVersion: "v0.8.8"
-  collectedAt: 2026-09-07T05:57:58Z
+  collectedAt: 2026-09-07T18:28:49Z
 timeline:
   created: 2025-03-06
   lastCommit: 2026-09-07
@@ -35,7 +35,7 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 0
-    commit: 32
+    commit: 0
   last60d:
     since: 2026-07-09
     release: 1
@@ -43,7 +43,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 32
+    commit: 0
   last90d:
     since: 2026-06-09
     release: 2
@@ -51,7 +51,7 @@ recent:
     openPR: 1
     closedIssue: 0
     openIssue: 0
-    commit: 50
+    commit: 0
   last180d:
     since: 2026-03-11
     release: 6
@@ -59,7 +59,7 @@ recent:
     openPR: 1
     closedIssue: 1
     openIssue: 2
-    commit: 155
+    commit: 0
   last360d:
     since: 2025-09-12
     release: 23
@@ -67,7 +67,7 @@ recent:
     openPR: 1
     closedIssue: 8
     openIssue: 4
-    commit: 419
+    commit: 0
   last720d:
     since: 2024-09-17
     release: 38
@@ -85,7 +85,7 @@ total:
   commit: 638
 ---
 path: /home/runner/.x-repo/github.com/pamburus/termframe
-collectedAt: 2026-09-07T05:58:00Z
+collectedAt: 2026-09-07T18:28:51Z
 loc:
   Toml:
     code: 13956
@@ -151,7 +151,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:58:00+00:00
+  collectedAt: 2026-09-07T18:28:51+00:00
   platform:
     darwin/arm64:
       name:  termframe-macos-arm64.tar.gz
