@@ -5,7 +5,7 @@ about:
   head: 3ab946a
   archived: false
   latestVersion: "v0.8.8"
-  collectedAt: 2026-09-08T03:12:17Z
+  collectedAt: 2026-09-08T05:45:53Z
 timeline:
   created: 2025-03-06
   lastCommit: 2026-09-07
@@ -85,7 +85,7 @@ total:
   commit: 638
 ---
 path: /home/runner/.x-repo/github.com/pamburus/termframe
-collectedAt: 2026-09-08T03:12:19Z
+collectedAt: 2026-09-08T05:45:54Z
 loc:
   Toml:
     code: 13956
