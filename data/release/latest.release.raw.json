@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 6817813,
       "digest": "sha256:b917bc7b9adbc3f2b2c7c2239431e92003eaa65d2d7cdcf902afe0201f0b0758",
-      "download_count": 8,
+      "download_count": 9,
       "created_at": "2026-08-27T22:10:10Z",
       "updated_at": "2026-08-27T22:10:11Z",
       "browser_download_url": "https://github.com/pamburus/termframe/releases/download/v0.8.8/termframe-linux-x86_64-gnu.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6971329,
       "digest": "sha256:ba7b191256c8418f8d89ddd0ed77558cddd850e2cbce2b5df6fe2e120e934d54",
-      "download_count": 59,
+      "download_count": 61,
       "created_at": "2026-08-27T22:10:50Z",
       "updated_at": "2026-08-27T22:10:51Z",
       "browser_download_url": "https://github.com/pamburus/termframe/releases/download/v0.8.8/termframe-linux-x86_64-musl.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 5109078,
       "digest": "sha256:b3d6f4eab84021d1c14e4914f4698c387e8fe61181b527372424fe8c44399325",
-      "download_count": 53,
+      "download_count": 54,
       "created_at": "2026-08-27T22:11:08Z",
       "updated_at": "2026-08-27T22:11:09Z",
       "browser_download_url": "https://github.com/pamburus/termframe/releases/download/v0.8.8/termframe-macos-arm64.tar.gz"
