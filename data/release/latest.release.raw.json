@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 6971329,
       "digest": "sha256:ba7b191256c8418f8d89ddd0ed77558cddd850e2cbce2b5df6fe2e120e934d54",
-      "download_count": 65,
+      "download_count": 66,
       "created_at": "2026-08-27T22:10:50Z",
       "updated_at": "2026-08-27T22:10:51Z",
       "browser_download_url": "https://github.com/pamburus/termframe/releases/download/v0.8.8/termframe-linux-x86_64-musl.tar.gz"

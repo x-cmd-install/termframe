@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.8.8"
   latestRelease: "v0.8.8"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:04:12Z
+  collectedAt: 2026-09-10T22:44:24Z
 timeline:
   created: 2025-03-06
   lastCommit: 2026-09-07
@@ -89,7 +89,7 @@ total:
   commit: 638
 ---
 path: /home/runner/.x-repo/github.com/pamburus/termframe
-collectedAt: 2026-09-10T21:04:14Z
+collectedAt: 2026-09-10T22:44:25Z
 loc:
   Toml:
     code: 13956
