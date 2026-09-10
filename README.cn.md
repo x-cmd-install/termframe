@@ -1,51 +1,51 @@
 # termframe
 
-[中文版本](./README.cn.md)
+[English version](./README.md)
 
 📸 Terminal output SVG screenshot tool
 
-![termframe](https://repo.x-cmd.io/termframe.svg)
+![termframe](https://repo.x-cmd.io/termframe.svg?lang=zh)
 
-## Install
+## 安装
 
 ```sh
 x install termframe
 ```
 
-## Code insight
+## 代码规模
 
-Total: **27,381** lines of code across **682** files in the top 5 languages.
+合计: **27,381** 行代码（覆盖前 5 种语言、共 **682** 个文件）。
 
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
 | Toml | 13,956 | 106 | 1,274 | 616 |
 | Rust | 10,335 | 443 | 1,580 | 54 |
 | Svg | 1,267 | 0 | 0 | 7 |
 | Python | 595 | 51 | 100 | 2 |
 | Json | 588 | 0 | 0 | 3 |
 
-## Source
+## 源代码
 
-- **Upstream**: <https://github.com/pamburus/termframe>
-- **License**: MIT
+- **上游仓库**: <https://github.com/pamburus/termframe>
+- **许可证**: MIT
 
-## Release
+## 发布
 
-- **Latest**: `v0.8.8` (2026-08-27)
-- **Last commit**: 2026-09-07
-- **Assets in release**: 9
+- **最新版本**: `v0.8.8` (2026-08-27)
+- **最近提交**: 2026-09-07
+- **Release 含资产**: 9 个
 
-## Popularity
+## 流行度
 
-- **Stars**: 136 · **Forks**: 3 · **Open issues**: 13 · **Contributors**: 6
+- **Star**: 136 · **Fork**: 3 · **开放 issue**: 13 · **贡献者**: 6
 
-## Totals (cumulative)
+## 累计统计
 
-- **Releases**: 38 · **Merged PRs**: 599 · **Open PRs**: 1 · **Closed issues**: 9 · **Open issues**: 4 · **Commits**: 638
+- **发布数**: 38 · **已合并 PR**: 599 · **开放 PR**: 1 · **已关闭 issue**: 9 · **开放 issue**: 4 · **提交数**: 638
 
-## Recent activity
+## 最近活动
 
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+| 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 1 | 23 | 0 | 0 | 0 | 32 |
 | last60d | 2026-07-12 | 1 | 23 | 1 | 0 | 0 | 32 |
@@ -54,10 +54,10 @@ Total: **27,381** lines of code across **682** files in the top 5 languages.
 | 360d | 2025-09-15 | 23 | 390 | 1 | 7 | 3 | 419 |
 | last720d | 2024-09-20 | 38 | 599 | 1 | 9 | 4 | 638 |
 
-## Release assets
+## Release 资产
 
-| Asset | Size | Target |
-|-------|-----:|--------|
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
 | [termframe-linux-arm64-gnu.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.8.8/termframe-linux-arm64-gnu.tar.gz) | 6.3 MiB | `native/linux/arm64/glibc` |
 | [termframe-linux-arm64-musl.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.8.8/termframe-linux-arm64-musl.tar.gz) | 6.4 MiB | `native/linux/arm64/musl` |
 | [termframe-linux-x86_64-gnu.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.8.8/termframe-linux-x86_64-gnu.tar.gz) | 6.5 MiB | `native/linux/x64/glibc` |
@@ -68,21 +68,21 @@ Total: **27,381** lines of code across **682** files in the top 5 languages.
 | [termframe-windows-arm64.zip](https://github.com/pamburus/termframe/releases/download/v0.8.8/termframe-windows-arm64.zip) | 3.8 MiB | `native/win/arm64` |
 | [termframe-windows.zip](https://github.com/pamburus/termframe/releases/download/v0.8.8/termframe-windows.zip) | 4.0 MiB | `native/win/x64` |
 
-## Distribution status
+## 发行版状态
 
-Reported by **4** distros on [repology.org](https://repology.org/project/termframe). **3** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
+在 [repology.org](https://repology.org/project/termframe) 上共有 **4** 个发行版报告此项目。**3** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
 
-| Distro | Version | Status |
-|--------|---------|--------|
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
 | Homebrew | `0.8.8` | ✅ latest |
 
-## Improve this data
+## 改进这些数据
 
-Install metadata for termframe lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `termframe` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+termframe 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `termframe` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
 
-- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/termframe.yml> (or whichever path the index uses)
+- **提交 issue**: <https://github.com/x-cmd/install/issues/new>
+- **编辑包条目**: <https://github.com/x-cmd/install/edit/main/termframe.yml>（或索引实际使用的路径）
 
-The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T21:04:18Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:04:19Z._
