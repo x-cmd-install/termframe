@@ -32,7 +32,7 @@ Total: **27,381** lines of code across **682** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.8` (2026-08-27)
-- **Last commit**: 2026-09-11
+- **Last commit**: 2026-09-14
 - **Assets in release**: 9
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **27,381** lines of code across **682** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 602 · **Open PRs**: 1 · **Closed issues**: 9 · **Open issues**: 4 · **Commits**: 641
+- **Releases**: 38 · **Merged PRs**: 607 · **Open PRs**: 1 · **Closed issues**: 9 · **Open issues**: 4 · **Commits**: 646
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 1 | 26 | 0 | 0 | 0 | 35 |
-| last60d | 2026-07-15 | 1 | 26 | 1 | 0 | 0 | 35 |
-| 90d | 2026-06-15 | 2 | 49 | 1 | 0 | 0 | 47 |
-| last180d | 2026-03-17 | 6 | 147 | 1 | 1 | 2 | 144 |
-| 360d | 2025-09-18 | 22 | 393 | 1 | 7 | 3 | 415 |
-| last720d | 2024-09-23 | 38 | 602 | 1 | 9 | 4 | 641 |
+| 30d | 2026-08-15 | 1 | 31 | 0 | 0 | 0 | 40 |
+| last60d | 2026-07-16 | 1 | 31 | 1 | 0 | 0 | 40 |
+| 90d | 2026-06-16 | 2 | 54 | 1 | 0 | 0 | 52 |
+| last180d | 2026-03-18 | 6 | 152 | 1 | 1 | 2 | 149 |
+| 360d | 2025-09-19 | 22 | 393 | 1 | 7 | 3 | 420 |
+| last720d | 2024-09-24 | 38 | 607 | 1 | 9 | 4 | 646 |
 
 ## Release assets
 
@@ -68,14 +68,6 @@ Total: **27,381** lines of code across **682** files in the top 5 languages.
 | [termframe-windows-arm64.zip](https://github.com/pamburus/termframe/releases/download/v0.8.8/termframe-windows-arm64.zip) | 3.8 MiB | `native/win/arm64` |
 | [termframe-windows.zip](https://github.com/pamburus/termframe/releases/download/v0.8.8/termframe-windows.zip) | 4.0 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **4** distros on [repology.org](https://repology.org/project/termframe). **3** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.8.8` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for termframe lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `termframe` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -85,4 +77,4 @@ Install metadata for termframe lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T06:01:26Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T06:23:23Z._
