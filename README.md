@@ -4,7 +4,7 @@
 
 📸 Terminal output SVG screenshot tool
 
-![termframe](https://repo.x-cmd.io/termframe.svg)
+[![x-cmd/install — termframe Code Quality Monitoring Repo Card](https://repo.x-cmd.io/termframe.svg)](https://x-cmd.com/install/termframe)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install termframe
 
 ## Code insight
 
-Total: **27,381** lines of code across **682** files in the top 5 languages.
+Total: **27,579** lines of code across **691** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Toml | 13,956 | 106 | 1,274 | 616 |
+| Toml | 14,154 | 106 | 1,292 | 625 |
 | Rust | 10,335 | 443 | 1,580 | 54 |
 | Svg | 1,267 | 0 | 0 | 7 |
 | Python | 595 | 51 | 100 | 2 |
@@ -32,7 +32,7 @@ Total: **27,381** lines of code across **682** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.8.8` (2026-08-27)
-- **Last commit**: 2026-09-14
+- **Last commit**: 2026-09-18
 - **Assets in release**: 9
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **27,381** lines of code across **682** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 607 · **Open PRs**: 1 · **Closed issues**: 9 · **Open issues**: 4 · **Commits**: 646
+- **Releases**: 38 · **Merged PRs**: 610 · **Open PRs**: 1 · **Closed issues**: 9 · **Open issues**: 4 · **Commits**: 649
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 31 | 0 | 0 | 0 | 40 |
-| last60d | 2026-07-20 | 1 | 31 | 0 | 0 | 0 | 40 |
-| 90d | 2026-06-20 | 2 | 50 | 1 | 0 | 0 | 52 |
-| last180d | 2026-03-22 | 5 | 145 | 1 | 1 | 2 | 149 |
-| 360d | 2025-09-23 | 22 | 391 | 1 | 7 | 3 | 420 |
-| last720d | 2024-09-28 | 38 | 607 | 1 | 9 | 4 | 646 |
+| 30d | 2026-08-21 | 1 | 34 | 0 | 0 | 0 | 25 |
+| last60d | 2026-07-22 | 1 | 34 | 0 | 0 | 0 | 43 |
+| 90d | 2026-06-22 | 2 | 50 | 1 | 0 | 0 | 46 |
+| last180d | 2026-03-24 | 5 | 144 | 1 | 1 | 2 | 143 |
+| 360d | 2025-09-25 | 22 | 394 | 1 | 7 | 3 | 397 |
+| last720d | 2024-09-30 | 38 | 610 | 1 | 9 | 4 | 649 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for termframe lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:16:38Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:12:07Z._
