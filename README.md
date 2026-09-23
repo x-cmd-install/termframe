@@ -4,7 +4,7 @@
 
 📸 Terminal output SVG screenshot tool
 
-[![x-cmd/install — termframe Code Quality Monitoring Repo Card](https://repo.x-cmd.io/termframe.svg)](https://x-cmd.com/install/termframe)
+[![x-cmd/install — termframe Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/termframe.svg)](https://x-cmd.com/install/termframe)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **27,579** lines of code across **691** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 38 | 1 | 0 | 0 | 29 |
-| last60d | 2026-07-24 | 1 | 38 | 1 | 0 | 0 | 47 |
-| 90d | 2026-06-24 | 1 | 54 | 2 | 0 | 0 | 50 |
-| last180d | 2026-03-26 | 5 | 148 | 2 | 1 | 2 | 147 |
-| 360d | 2025-09-27 | 22 | 390 | 2 | 7 | 3 | 401 |
-| last720d | 2024-10-02 | 38 | 614 | 2 | 9 | 4 | 653 |
+| 30d | 2026-08-24 | 1 | 38 | 1 | 0 | 0 | 29 |
+| last60d | 2026-07-25 | 1 | 38 | 1 | 0 | 0 | 47 |
+| 90d | 2026-06-25 | 1 | 54 | 2 | 0 | 0 | 50 |
+| last180d | 2026-03-27 | 5 | 142 | 2 | 1 | 2 | 147 |
+| 360d | 2025-09-28 | 22 | 390 | 2 | 7 | 3 | 401 |
+| last720d | 2024-10-03 | 38 | 614 | 2 | 9 | 4 | 653 |
 
 ## Release assets
 
@@ -77,4 +77,4 @@ Install metadata for termframe lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:23:44Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:20:52Z._
