@@ -1,0 +1,38 @@
+- repo: aur
+  srcname: termframe
+  binname: termframe
+  visiblename: termframe
+  version: 0.8.8
+  origversion: 0.8.8-1
+  status: newest
+  summary: Convert terminal output into an SVG file
+  maintainers:
+    - danicatgames@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: termframe-bin
+  binname: termframe-bin
+  visiblename: termframe-bin
+  version: 0.8.8
+  origversion: 0.8.8-1
+  status: newest
+  summary: Convert terminal output into an SVG file
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: homebrew
+  srcname: termframe
+  visiblename: termframe
+  version: 0.8.8
+  origversion: null
+  status: newest
+  summary: Terminal output SVG screenshot tool
+- repo: homebrew
+  srcname: termframe
+  visiblename: termframe
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Terminal output SVG screenshot tool
