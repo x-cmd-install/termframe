@@ -14,12 +14,12 @@ x install termframe
 
 ## Code insight
 
-Total: **31,965** lines of code across **891** files in the top 5 languages.
+Total: **32,828** lines of code across **931** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Toml | 18,554 | 106 | 1,692 | 825 |
-| Rust | 10,321 | 443 | 1,580 | 54 |
+| Toml | 19,414 | 109 | 1,770 | 865 |
+| Rust | 10,324 | 445 | 1,581 | 54 |
 | Svg | 1,267 | 0 | 0 | 7 |
 | Python | 595 | 51 | 100 | 2 |
 | Json | 588 | 0 | 0 | 3 |
@@ -41,18 +41,18 @@ Total: **31,965** lines of code across **891** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 643 · **Open PRs**: 1 · **Closed issues**: 9 · **Open issues**: 5 · **Commits**: 682
+- **Releases**: 38 · **Merged PRs**: 647 · **Open PRs**: 1 · **Closed issues**: 9 · **Open issues**: 5 · **Commits**: 686
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 28 | 0 | 0 | 1 | 29 |
-| last60d | 2026-08-24 | 1 | 67 | 0 | 0 | 1 | 76 |
-| 90d | 2026-07-25 | 1 | 67 | 0 | 0 | 1 | 76 |
-| last180d | 2026-04-26 | 4 | 142 | 1 | 0 | 1 | 145 |
-| 360d | 2025-10-28 | 16 | 332 | 1 | 5 | 4 | 362 |
-| last720d | 2024-11-02 | 38 | 643 | 1 | 9 | 5 | 682 |
+| 30d | 2026-09-24 | 0 | 32 | 0 | 0 | 1 | 33 |
+| last60d | 2026-08-25 | 1 | 71 | 0 | 0 | 1 | 80 |
+| 90d | 2026-07-26 | 1 | 71 | 0 | 0 | 1 | 80 |
+| last180d | 2026-04-27 | 4 | 143 | 1 | 0 | 1 | 149 |
+| 360d | 2025-10-29 | 16 | 336 | 1 | 5 | 4 | 366 |
+| last720d | 2024-11-03 | 38 | 647 | 1 | 9 | 5 | 686 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for termframe lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T05:46:01Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T05:33:46Z._
