@@ -32,7 +32,7 @@ Total: **33,826** lines of code across **967** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.2` (2026-11-01)
-- **Last commit**: 2026-11-01
+- **Last commit**: 2026-11-02
 - **Assets in release**: 9
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **33,826** lines of code across **967** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 41 · **Merged PRs**: 678 · **Open PRs**: 1 · **Closed issues**: 9 · **Open issues**: 5 · **Commits**: 723
+- **Releases**: 41 · **Merged PRs**: 679 · **Open PRs**: 1 · **Closed issues**: 9 · **Open issues**: 5 · **Commits**: 724
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-03 | 3 | 56 | 0 | 0 | 1 | 62 |
-| last60d | 2026-09-03 | 3 | 84 | 0 | 0 | 1 | 85 |
-| 90d | 2026-08-04 | 4 | 102 | 0 | 0 | 1 | 117 |
-| last180d | 2026-05-06 | 7 | 165 | 1 | 0 | 1 | 169 |
-| 360d | 2025-11-07 | 19 | 359 | 1 | 5 | 4 | 387 |
-| last720d | 2024-11-12 | 41 | 678 | 1 | 9 | 5 | 723 |
+| 30d | 2026-10-04 | 3 | 57 | 0 | 0 | 1 | 63 |
+| last60d | 2026-09-04 | 3 | 83 | 0 | 0 | 1 | 86 |
+| 90d | 2026-08-05 | 4 | 103 | 0 | 0 | 1 | 118 |
+| last180d | 2026-05-07 | 7 | 166 | 1 | 0 | 1 | 170 |
+| 360d | 2025-11-08 | 19 | 360 | 1 | 5 | 4 | 388 |
+| last720d | 2024-11-13 | 41 | 679 | 1 | 9 | 5 | 724 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for termframe lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261102.yml` · 2026-11-02T07:18:31Z._
+_Snapshot: `data/card/261103.yml` · 2026-11-03T08:11:15Z._
