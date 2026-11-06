@@ -47,12 +47,12 @@ Total: **35,403** lines of code across **970** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 4 | 64 | 1 | 7 | 1 | 72 |
-| last60d | 2026-09-06 | 4 | 90 | 1 | 7 | 1 | 95 |
-| 90d | 2026-08-07 | 5 | 110 | 1 | 7 | 1 | 127 |
-| last180d | 2026-05-09 | 8 | 170 | 2 | 7 | 1 | 179 |
-| 360d | 2025-11-10 | 18 | 363 | 2 | 11 | 4 | 397 |
-| last720d | 2024-11-15 | 42 | 686 | 2 | 16 | 5 | 733 |
+| 30d | 2026-10-07 | 4 | 64 | 1 | 7 | 1 | 72 |
+| last60d | 2026-09-07 | 4 | 87 | 1 | 7 | 1 | 95 |
+| 90d | 2026-08-08 | 5 | 110 | 1 | 7 | 1 | 127 |
+| last180d | 2026-05-10 | 8 | 170 | 2 | 7 | 1 | 179 |
+| 360d | 2025-11-11 | 18 | 363 | 2 | 11 | 4 | 397 |
+| last720d | 2024-11-16 | 42 | 686 | 2 | 16 | 5 | 733 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for termframe lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T07:49:03Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T07:57:19Z._
