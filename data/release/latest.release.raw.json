@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7188432,
       "digest": "sha256:c06f2ff7c764a2741168dd4c2a3b6162caa5b0fbd908e287e39635025a8f1631",
-      "download_count": 7,
+      "download_count": 8,
       "created_at": "2026-11-05T02:50:37Z",
       "updated_at": "2026-11-05T02:50:38Z",
       "browser_download_url": "https://github.com/pamburus/termframe/releases/download/v0.9.3/termframe-linux-x86_64-gnu.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7164105,
       "digest": "sha256:0f6a0302a96b091149606475a42d9cd4057ccdc9522d25b0c91e8e50bc525b00",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-11-05T02:50:53Z",
       "updated_at": "2026-11-05T02:50:54Z",
       "browser_download_url": "https://github.com/pamburus/termframe/releases/download/v0.9.3/termframe-linux-x86_64-musl.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4313273,
       "digest": "sha256:8dbf5a86ca73af40a01e4a9aa01aa7d17dfbe51fc9c719b953a8c791bb60e054",
-      "download_count": 3,
+      "download_count": 5,
       "created_at": "2026-11-05T02:50:03Z",
       "updated_at": "2026-11-05T02:50:03Z",
       "browser_download_url": "https://github.com/pamburus/termframe/releases/download/v0.9.3/termframe-windows.zip"
