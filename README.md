@@ -14,11 +14,11 @@ x install termframe
 
 ## Code insight
 
-Total: **35,403** lines of code across **970** files in the top 5 languages.
+Total: **35,733** lines of code across **985** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Toml | 20,187 | 112 | 1,841 | 900 |
+| Toml | 20,517 | 112 | 1,871 | 915 |
 | Rust | 11,553 | 487 | 1,736 | 57 |
 | Svg | 1,823 | 0 | 0 | 8 |
 | Python | 595 | 51 | 100 | 2 |
@@ -32,7 +32,7 @@ Total: **35,403** lines of code across **970** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.9.3` (2026-11-05)
-- **Last commit**: 2026-11-05
+- **Last commit**: 2026-11-06
 - **Assets in release**: 9
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **35,403** lines of code across **970** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 42 · **Merged PRs**: 686 · **Open PRs**: 2 · **Closed issues**: 16 · **Open issues**: 5 · **Commits**: 733
+- **Releases**: 42 · **Merged PRs**: 688 · **Open PRs**: 2 · **Closed issues**: 16 · **Open issues**: 5 · **Commits**: 735
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-07 | 4 | 64 | 1 | 7 | 1 | 72 |
-| last60d | 2026-09-07 | 4 | 87 | 1 | 7 | 1 | 95 |
-| 90d | 2026-08-08 | 5 | 110 | 1 | 7 | 1 | 127 |
-| last180d | 2026-05-10 | 8 | 170 | 2 | 7 | 1 | 179 |
-| 360d | 2025-11-11 | 18 | 363 | 2 | 11 | 4 | 397 |
-| last720d | 2024-11-16 | 42 | 686 | 2 | 16 | 5 | 733 |
+| 30d | 2026-10-08 | 4 | 66 | 1 | 7 | 1 | 74 |
+| last60d | 2026-09-08 | 4 | 89 | 1 | 7 | 1 | 97 |
+| 90d | 2026-08-09 | 5 | 112 | 1 | 7 | 1 | 129 |
+| last180d | 2026-05-11 | 8 | 167 | 2 | 7 | 1 | 181 |
+| 360d | 2025-11-12 | 18 | 365 | 2 | 11 | 4 | 399 |
+| last720d | 2024-11-17 | 42 | 688 | 2 | 16 | 5 | 735 |
 
 ## Release assets
 
@@ -85,4 +85,4 @@ Install metadata for termframe lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261106.yml` · 2026-11-06T07:57:19Z._
+_Snapshot: `data/card/261107.yml` · 2026-11-07T07:13:34Z._
