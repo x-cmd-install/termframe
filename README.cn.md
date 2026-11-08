@@ -31,8 +31,8 @@ x install termframe
 
 ## 发布
 
-- **最新版本**: `v0.9.3` (2026-11-05)
-- **最近提交**: 2026-11-06
+- **最新版本**: `v0.10.0` (2026-11-07)
+- **最近提交**: 2026-11-07
 - **Release 含资产**: 9 个
 
 ## 流行度
@@ -41,32 +41,32 @@ x install termframe
 
 ## 累计统计
 
-- **发布数**: 42 · **已合并 PR**: 688 · **开放 PR**: 2 · **已关闭 issue**: 16 · **开放 issue**: 5 · **提交数**: 735
+- **发布数**: 43 · **已合并 PR**: 688 · **开放 PR**: 2 · **已关闭 issue**: 16 · **开放 issue**: 5 · **提交数**: 737
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-08 | 4 | 66 | 1 | 7 | 1 | 74 |
-| last60d | 2026-09-08 | 4 | 89 | 1 | 7 | 1 | 97 |
-| 90d | 2026-08-09 | 5 | 112 | 1 | 7 | 1 | 129 |
-| last180d | 2026-05-11 | 8 | 167 | 2 | 7 | 1 | 181 |
-| 360d | 2025-11-12 | 18 | 365 | 2 | 11 | 4 | 399 |
-| last720d | 2024-11-17 | 42 | 688 | 2 | 16 | 5 | 735 |
+| 30d | 2026-10-09 | 5 | 63 | 1 | 7 | 1 | 69 |
+| last60d | 2026-09-09 | 5 | 89 | 1 | 7 | 1 | 91 |
+| 90d | 2026-08-10 | 6 | 112 | 1 | 7 | 1 | 131 |
+| last180d | 2026-05-12 | 9 | 167 | 2 | 7 | 1 | 176 |
+| 360d | 2025-11-13 | 19 | 365 | 2 | 11 | 4 | 399 |
+| last720d | 2024-11-18 | 43 | 688 | 2 | 16 | 5 | 737 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [termframe-linux-arm64-gnu.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.9.3/termframe-linux-arm64-gnu.tar.gz) | 6.5 MiB | `native/linux/arm64/glibc` |
-| [termframe-linux-arm64-musl.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.9.3/termframe-linux-arm64-musl.tar.gz) | 6.6 MiB | `native/linux/arm64/musl` |
-| [termframe-linux-x86_64-gnu.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.9.3/termframe-linux-x86_64-gnu.tar.gz) | 6.9 MiB | `native/linux/x64/glibc` |
-| [termframe-linux-x86_64-musl.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.9.3/termframe-linux-x86_64-musl.tar.gz) | 6.8 MiB | `native/linux/x64/musl` |
-| [termframe-macos-arm64.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.9.3/termframe-macos-arm64.tar.gz) | 5.0 MiB | `native/darwin/arm64` |
-| [termframe-macos-x86_64.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.9.3/termframe-macos-x86_64.tar.gz) | 5.4 MiB | `native/darwin/x64` |
-| [termframe-macos.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.9.3/termframe-macos.tar.gz) | 10.4 MiB | `native/darwin/x64` |
-| [termframe-windows-arm64.zip](https://github.com/pamburus/termframe/releases/download/v0.9.3/termframe-windows-arm64.zip) | 3.9 MiB | `native/win/arm64` |
-| [termframe-windows.zip](https://github.com/pamburus/termframe/releases/download/v0.9.3/termframe-windows.zip) | 4.1 MiB | `native/win/x64` |
+| [termframe-linux-arm64-gnu.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.10.0/termframe-linux-arm64-gnu.tar.gz) | 6.5 MiB | `native/linux/arm64/glibc` |
+| [termframe-linux-arm64-musl.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.10.0/termframe-linux-arm64-musl.tar.gz) | 6.6 MiB | `native/linux/arm64/musl` |
+| [termframe-linux-x86_64-gnu.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.10.0/termframe-linux-x86_64-gnu.tar.gz) | 6.9 MiB | `native/linux/x64/glibc` |
+| [termframe-linux-x86_64-musl.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.10.0/termframe-linux-x86_64-musl.tar.gz) | 6.9 MiB | `native/linux/x64/musl` |
+| [termframe-macos-arm64.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.10.0/termframe-macos-arm64.tar.gz) | 5.0 MiB | `native/darwin/arm64` |
+| [termframe-macos-x86_64.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.10.0/termframe-macos-x86_64.tar.gz) | 5.5 MiB | `native/darwin/x64` |
+| [termframe-macos.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.10.0/termframe-macos.tar.gz) | 10.5 MiB | `native/darwin/x64` |
+| [termframe-windows-arm64.zip](https://github.com/pamburus/termframe/releases/download/v0.10.0/termframe-windows-arm64.zip) | 3.9 MiB | `native/win/arm64` |
+| [termframe-windows.zip](https://github.com/pamburus/termframe/releases/download/v0.10.0/termframe-windows.zip) | 4.1 MiB | `native/win/x64` |
 
 ## 发行版状态
 
@@ -74,7 +74,7 @@ x install termframe
 
 | 发行版 | 版本 | 状态 |
 |--------|------|------|
-| Homebrew | `0.9.3` | ✅ latest |
+| Homebrew | `0.10.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -85,4 +85,4 @@ termframe 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261107.yml` · 2026-11-07T07:13:34Z._
+_数据快照: `data/card/261108.yml` · 2026-11-08T07:05:50Z._
