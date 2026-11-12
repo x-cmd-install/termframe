@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 6797293,
       "digest": "sha256:0d8ae92b99f07c9d1ac21ad4a13bc289b3041e02e616bf20d0aff12136160cd4",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-07T08:29:39Z",
       "updated_at": "2026-11-07T08:29:40Z",
       "browser_download_url": "https://github.com/pamburus/termframe/releases/download/v0.10.0/termframe-linux-arm64-gnu.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6891188,
       "digest": "sha256:4d35fe9da11e7e752d44c021e68058c205439064ed17f2a84324e4cafb31bb4c",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-07T08:29:41Z",
       "updated_at": "2026-11-07T08:29:42Z",
       "browser_download_url": "https://github.com/pamburus/termframe/releases/download/v0.10.0/termframe-linux-arm64-musl.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 7212799,
       "digest": "sha256:2317121363626f18e5aeb70f106276c1a368d76c12587ad51e39f2f099b481d1",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-11-07T08:29:36Z",
       "updated_at": "2026-11-07T08:29:36Z",
       "browser_download_url": "https://github.com/pamburus/termframe/releases/download/v0.10.0/termframe-linux-x86_64-gnu.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7190070,
       "digest": "sha256:821302e1bddfda043a768211ab3f92cc51100313f2f73daf4f809cc33b88eb98",
-      "download_count": 13,
+      "download_count": 16,
       "created_at": "2026-11-07T08:27:59Z",
       "updated_at": "2026-11-07T08:28:00Z",
       "browser_download_url": "https://github.com/pamburus/termframe/releases/download/v0.10.0/termframe-linux-x86_64-musl.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 4343248,
       "digest": "sha256:1c4d7fe7ac059ea16994a9400f4f5669a66d8fc2d7e941da778ca3f17e81409b",
-      "download_count": 7,
+      "download_count": 11,
       "created_at": "2026-11-07T08:31:08Z",
       "updated_at": "2026-11-07T08:31:09Z",
       "browser_download_url": "https://github.com/pamburus/termframe/releases/download/v0.10.0/termframe-windows.zip"
