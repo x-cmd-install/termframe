@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 7190070,
       "digest": "sha256:821302e1bddfda043a768211ab3f92cc51100313f2f73daf4f809cc33b88eb98",
-      "download_count": 16,
+      "download_count": 21,
       "created_at": "2026-11-07T08:27:59Z",
       "updated_at": "2026-11-07T08:28:00Z",
       "browser_download_url": "https://github.com/pamburus/termframe/releases/download/v0.10.0/termframe-linux-x86_64-musl.tar.gz"
