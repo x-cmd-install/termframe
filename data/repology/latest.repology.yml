@@ -14,8 +14,8 @@
   srcname: termframe-bin
   binname: termframe-bin
   visiblename: termframe-bin
-  version: 0.10.0
-  origversion: 0.10.0-1
+  version: 0.10.1
+  origversion: 0.10.1-1
   status: newest
   summary: Convert terminal output into an SVG file
   maintainers:
@@ -25,7 +25,7 @@
 - repo: homebrew
   srcname: termframe
   visiblename: termframe
-  version: 0.10.0
+  version: 0.10.1
   origversion: null
   status: newest
   summary: Terminal output SVG screenshot tool
