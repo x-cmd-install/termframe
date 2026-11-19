@@ -31,8 +31,8 @@ Total: **35,885** lines of code across **992** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.10.1` (2026-11-13)
-- **Last commit**: 2026-11-15
+- **Latest**: `v0.10.2` (2026-11-18)
+- **Last commit**: 2026-11-19
 - **Assets in release**: 9
 
 ## Popularity
@@ -41,32 +41,32 @@ Total: **35,885** lines of code across **992** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 44 · **Merged PRs**: 695 · **Open PRs**: 1 · **Closed issues**: 18 · **Open issues**: 5 · **Commits**: 746
+- **Releases**: 45 · **Merged PRs**: 700 · **Open PRs**: 1 · **Closed issues**: 18 · **Open issues**: 5 · **Commits**: 753
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 6 | 62 | 0 | 9 | 1 | 65 |
-| last60d | 2026-09-18 | 6 | 85 | 0 | 9 | 1 | 93 |
-| 90d | 2026-08-19 | 7 | 119 | 0 | 9 | 1 | 140 |
-| last180d | 2026-05-21 | 10 | 166 | 1 | 9 | 1 | 176 |
-| 360d | 2025-11-22 | 20 | 367 | 1 | 13 | 4 | 400 |
-| last720d | 2024-11-27 | 44 | 695 | 1 | 18 | 5 | 746 |
+| 30d | 2026-10-20 | 7 | 58 | 0 | 9 | 0 | 72 |
+| last60d | 2026-09-20 | 7 | 90 | 0 | 9 | 1 | 100 |
+| 90d | 2026-08-21 | 8 | 124 | 0 | 9 | 1 | 147 |
+| last180d | 2026-05-23 | 11 | 168 | 1 | 9 | 1 | 183 |
+| 360d | 2025-11-24 | 21 | 367 | 1 | 13 | 4 | 407 |
+| last720d | 2024-11-29 | 45 | 700 | 1 | 18 | 5 | 753 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [termframe-linux-arm64-gnu.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.10.1/termframe-linux-arm64-gnu.tar.gz) | 6.5 MiB | `native/linux/arm64/glibc` |
-| [termframe-linux-arm64-musl.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.10.1/termframe-linux-arm64-musl.tar.gz) | 6.6 MiB | `native/linux/arm64/musl` |
-| [termframe-linux-x86_64-gnu.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.10.1/termframe-linux-x86_64-gnu.tar.gz) | 6.9 MiB | `native/linux/x64/glibc` |
-| [termframe-linux-x86_64-musl.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.10.1/termframe-linux-x86_64-musl.tar.gz) | 6.9 MiB | `native/linux/x64/musl` |
-| [termframe-macos-arm64.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.10.1/termframe-macos-arm64.tar.gz) | 5.0 MiB | `native/darwin/arm64` |
-| [termframe-macos-x86_64.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.10.1/termframe-macos-x86_64.tar.gz) | 5.5 MiB | `native/darwin/x64` |
-| [termframe-macos.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.10.1/termframe-macos.tar.gz) | 10.5 MiB | `native/darwin/x64` |
-| [termframe-windows-arm64.zip](https://github.com/pamburus/termframe/releases/download/v0.10.1/termframe-windows-arm64.zip) | 3.9 MiB | `native/win/arm64` |
-| [termframe-windows.zip](https://github.com/pamburus/termframe/releases/download/v0.10.1/termframe-windows.zip) | 4.1 MiB | `native/win/x64` |
+| [termframe-linux-arm64-gnu.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.10.2/termframe-linux-arm64-gnu.tar.gz) | 6.5 MiB | `native/linux/arm64/glibc` |
+| [termframe-linux-arm64-musl.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.10.2/termframe-linux-arm64-musl.tar.gz) | 6.6 MiB | `native/linux/arm64/musl` |
+| [termframe-linux-x86_64-gnu.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.10.2/termframe-linux-x86_64-gnu.tar.gz) | 6.9 MiB | `native/linux/x64/glibc` |
+| [termframe-linux-x86_64-musl.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.10.2/termframe-linux-x86_64-musl.tar.gz) | 6.9 MiB | `native/linux/x64/musl` |
+| [termframe-macos-arm64.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.10.2/termframe-macos-arm64.tar.gz) | 5.0 MiB | `native/darwin/arm64` |
+| [termframe-macos-x86_64.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.10.2/termframe-macos-x86_64.tar.gz) | 5.5 MiB | `native/darwin/x64` |
+| [termframe-macos.tar.gz](https://github.com/pamburus/termframe/releases/download/v0.10.2/termframe-macos.tar.gz) | 10.5 MiB | `native/darwin/x64` |
+| [termframe-windows-arm64.zip](https://github.com/pamburus/termframe/releases/download/v0.10.2/termframe-windows-arm64.zip) | 3.9 MiB | `native/win/arm64` |
+| [termframe-windows.zip](https://github.com/pamburus/termframe/releases/download/v0.10.2/termframe-windows.zip) | 4.1 MiB | `native/win/x64` |
 
 ## Distribution status
 
@@ -74,7 +74,7 @@ Reported by **4** distros on [repology.org](https://repology.org/project/termfra
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `0.10.1` | ✅ latest |
+| Homebrew | `0.10.2` | ✅ latest |
 
 ## Improve this data
 
@@ -85,4 +85,4 @@ Install metadata for termframe lives in the [x-cmd/install](https://github.com/x
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:34:36Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:11:16Z._
